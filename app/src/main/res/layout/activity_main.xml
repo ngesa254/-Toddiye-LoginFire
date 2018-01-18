@@ -19,7 +19,7 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:text="P E N G "
+                android:text="TwendeKazi"
                 android:textSize="36sp"
                 android:textAlignment="center"
                 android:textColor="@android:color/white"
