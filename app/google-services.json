@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "997762363715",
+    "firebase_url": "https://loginfire-78207.firebaseio.com",
+    "project_id": "loginfire-78207",
+    "storage_bucket": "loginfire-78207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997762363715:android:2358efd64e7b3d2d",
+        "android_client_info": {
+          "package_name": "com.droidmarvin.toddiyeloginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997762363715-85249dg9p50duie3on366dda3ubnui7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidmarvin.toddiyeloginfire",
+            "certificate_hash": "56d77837efdcf6bf36accb5cc3b244382253da0d"
+          }
+        },
+        {
+          "client_id": "997762363715-j3oob821mvjfl9vp0lk626i1udqcn030.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB00SFgcQd0UA6iMVv4ozbC39Wd6StPqWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997762363715-j3oob821mvjfl9vp0lk626i1udqcn030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
